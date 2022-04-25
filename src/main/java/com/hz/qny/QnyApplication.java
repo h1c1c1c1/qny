@@ -6,9 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class QnyApplication {
-    private void show(){
 
-    }
 
     public static void main(String[] args) {
         SpringApplication.run( QnyApplication.class, args );
