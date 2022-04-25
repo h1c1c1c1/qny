@@ -1,0 +1,25 @@
+Index: ccc.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ccc.java	(date 1650872862968)
++++ ccc.java	(date 1650872862968)
+@@ -0,0 +1,17 @@
++package com.hz.qny.s1;
++
++import com.hz.qny.text.ssq;
++
++public class ccc  {
++
++    public static void main( String[] args ) {
++
++       ssq.upLoad( "C:\\Users\\32916\\Pictures\\2021062811261194.png","prim2" );
++        ssq.upLoad( "C:\\Users\\32916\\Pictures\\20210628112703451.png","prim");
++    }
++
++
++
++
++
++}
