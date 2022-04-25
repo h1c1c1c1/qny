@@ -36,6 +36,7 @@ public class ssq {
         String upToken = auth.uploadToken(bucket);
 
         try {
+            System.out.println("2323");
             //开始上传
             Response response = uploadManager.put(localFilePath, key, upToken);
             //解析上传结果
